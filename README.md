@@ -3,4 +3,4 @@ Contains an automated Python workflow with Selenium to log into the commercial d
 
 This program was used to obtain the dataset for my bachelor thesis.
 
-This repository will soon be updated to contain the replication package for my first paper "Regional Minimum Wages and Labor Misallocation in Italy", Bocconi Economic Journal, Issue 1, 2025.
+This repository will soon be updated to contain the replication package for my first paper "Regional Minimum Wages and Labor Misallocation in Italy", _Bocconi Economic Journal_, Issue 1, 2025.
